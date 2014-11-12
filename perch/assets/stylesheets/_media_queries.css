@@ -1,0 +1,121 @@
+@media screen and (max-width: 895px) {
+  .content-about #bx-pager {
+    text-align: center !important; }
+  .content-about .bx-wrapper .bx-controls-direction a {
+    margin-top: 20px !important; }
+
+  header .social-links {
+    display: block;
+    width: 90%; }
+
+  .content.home-welcome {
+    text-align: center;
+    margin: 0px auto 60px auto; }
+    .content.home-welcome h1 {
+      font-size: 28px;
+      color: #231f20;
+      margin: 0px 0px 5px 0px;
+      text-transform: lowercase; }
+    .content.home-welcome p {
+      color: #231f20;
+      font-size: 14px;
+      padding: 10px 0px;
+      max-width: 500px;
+      margin: 0px auto; }
+    .content.home-welcome a.pink-sml-link {
+      margin: 0px auto;
+      width: 270px; }
+  .content.cta-home ul li {
+    display: block;
+    width: 100%;
+    float: none;
+    padding: 0px 0px 40px 0px; }
+    .content.cta-home ul li img {
+      border: 6px solid #ffffff;
+      border-bottom: none;
+      box-shadow: 0px 0px 10px #e8e7e6;
+      margin: 0px auto;
+      display: block; }
+    .content.cta-home ul li a {
+      display: block;
+      width: 85%;
+      margin: 0px auto;
+      max-width: 220px; } }
+@media screen and (max-width: 760px) {
+  .home-wrapper {
+    overflow: hidden; }
+
+  #menu {
+    display: none; }
+
+  .slicknav_menu {
+    display: block; }
+
+  #menu-desktop {
+    display: none; }
+
+  header {
+    display: block;
+    position: relative;
+    z-index: 9;
+    width: 100%;
+    height: 300px;
+    margin: 0px 0px 40px 0px; }
+    header .logo {
+      display: block;
+      width: 200px;
+      height: 233px;
+      margin: 0px auto 20px auto;
+      position: relative;
+      z-index: 9; }
+      header .logo img {
+        width: 100%; }
+    header .social-links {
+      position: absolute;
+      top: 210px;
+      width: 100%;
+      padding: 20px 0px 0px 0px;
+      text-align: center; }
+      header .social-links .social {
+        float: none; }
+      header .social-links .class-link {
+        float: none; }
+        header .social-links .class-link a {
+          margin: 0px auto; }
+
+  .home-wrapper {
+    padding: 0px 0px 0px 0px; }
+
+  .class-wrapper img.article-image, .new-wrapper img.article-image, .about-wrapper img.article-image, .about-teachers-wrapper img.article-image {
+    float: none;
+    width: 96%;
+    margin: 10px 0px 20px 0px; }
+  .class-wrapper iframe, .new-wrapper iframe, .about-wrapper iframe, .about-teachers-wrapper iframe {
+    height: 300px; }
+
+  .content-about .links {
+    height: 100px; }
+    .content-about .links a.pink-sml-link {
+      float: none;
+      width: 100%;
+      margin: 0px 0px 10px 0px; }
+
+  .content-about .bx-wrapper img {
+    width: 96%;
+    margin: 0px 0px 10px 0px;
+    float: none; }
+  .content-about #bx-pager img {
+    margin: 8px;
+    width: 100px;
+    height: 100px;
+    -moz-box-shadow: 0 0 5px #ccc;
+    -webkit-box-shadow: 0 0 5px #ccc;
+    box-shadow: 0 0 5px #ccc;
+    border: 7px solid #fff; }
+
+  h3.ui-accordion-header {
+    padding: 10px 5%;
+    width: 90%; }
+
+  .class-wrapper .div-accordion, .new-wrapper .div-accordion, .about-wrapper .div-accordion, .about-teachers-wrapper .div-accordion {
+    margin: 0px 20px 0px 20px; } }
